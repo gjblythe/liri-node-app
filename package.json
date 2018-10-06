@@ -19,6 +19,7 @@
   "homepage": "https://github.com/gjblythe/liri-node-app#readme",
   "dependencies": {
     "dotenv": "^6.0.0",
+    "fs": "0.0.1-security",
     "inquirer": "^6.2.0",
     "moment": "^2.22.2",
     "node-spotify-api": "^1.0.7",
