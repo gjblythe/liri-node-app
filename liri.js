@@ -1,13 +1,13 @@
 // require("dotenv").config();
 require("dotenv").config();
-var keys = require('keys.js');
+// var keys = require('keys.js');
 //import keys.js
-var spotify = new Spotify(keys.spotify)
-console.log(spotify)
+
 // var spotify = new Spotify(keys.spotify);
 var request = require("request");
 var moment = require("moment");
 var fs = require("fs");
+
 var Spotify = require("node-spotify-api");
 var liriCommand = process.argv[2];
 var liriResponse = process.argv.slice(3).join(" ");
