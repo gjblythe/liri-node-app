@@ -24,3 +24,5 @@ Type any of the following commands into process.argv[2] followed by item to be s
         and of course no
         Backstreet Boys
         
+        Now it is new and improved. With 100% more metal.
+        
