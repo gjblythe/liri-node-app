@@ -16,4 +16,11 @@ Type any of the following commands into process.argv[2] followed by item to be s
         //Uses fs to read .txt and search by command and input.
 
     start (null)
-        //uses inquirer for a better UX clicks and input promps guide the user through the search functions.
+        //uses inquirer for a better UX. Clicks and input promps guide the user through the search functions.
+        
+        Also took those trash request items out of my code. 
+        No Mr Nobody
+        No Ace of Base
+        and of course no
+        Backstreet Boys
+        
