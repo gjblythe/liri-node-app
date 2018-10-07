@@ -206,7 +206,7 @@ if (liriCommand === "start") {
             {
               type: "confirm",
               message:
-                "\nNow for the all powerfull Random! What have the gods deemed worth?...\nAre you ready?",
+                "\nNow for the all powerfull Random! What have the gods deemed worthy?...\nAre you ready?",
               name: "confirm",
               default: true
             }
