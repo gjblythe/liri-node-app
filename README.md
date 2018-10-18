@@ -8,9 +8,9 @@ This is a search application that uses Node.js to process async calls to 3 diffe
 A forth option is avaiale which readFile is used to have the app run the app as well.
 
 npm modules used are as follows use npm install for the following
-moment
-inquirer
-node-spotify-api
+-moment 
+ -inquirer
+ -node-spotify-api
 
 Spotify will require you to create a user to get an API Key and a Secret for this function to work on your machine.
 
