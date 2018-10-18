@@ -1,7 +1,21 @@
 # liri-node-app
 Node search application
 
-Type any of the following commands into process.argv[2] followed by item to be seached starting process.argv[3].
+This is a search application that uses Node.js to process async calls to 3 different APIs to seach Concerts(bandsintown), Movies(omdb) and Songs(Spotify).
+
+A forth option is avaiale which readFile is used to have the app run the app as well.
+
+npm modules used are as follows use npm install for the following
+moment
+inquirer
+node-spotify-api
+
+Spotify will require you to create a user to get an API Key and a Secret for this function to work on your machine.
+
+The app works these two ways.
+
+    
+    1)Type any of the following commands into process.argv[2] followed by item to be seached starting process.argv[3].
     
     concert-this (band name)
         //Uses bandsintown api to call the venue information from the band selected.
@@ -15,14 +29,9 @@ Type any of the following commands into process.argv[2] followed by item to be s
     do-what-it-says (null)
         //Uses fs to read .txt and search by command and input.
 
-    start (null)
+   
+   2) Type node liri.js start 
         //uses inquirer for a better UX. Clicks and input promps guide the user through the search functions.
         
-        Also took those trash request items out of my code. 
-        No Mr Nobody
-        No Ace of Base
-        and of course no
-        Backstreet Boys
         
-        Now it is new and improved. With 100% more metal.
-        
+copyright 2018
