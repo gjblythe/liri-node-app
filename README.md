@@ -1,5 +1,5 @@
 # liri-node-app
-Node search application
+Node search application. Connects users to helpfull API's for their entertainment needs. 
 
 To watch this app in action check out this link. https://drive.google.com/file/d/109_1w6GpZCRVS0sRGdezvab2H3DE75SZ/view
 
@@ -7,6 +7,7 @@ This is a search application that uses Node.js to process async calls to 3 diffe
 
 A forth option is avaiale which readFile is used to have the app run the app as well.
 
+![](https://github.com/gjblythe/CrystalCollector/raw/master/liriStart.gif)
 npm modules used are as follows use npm install for the following
 -moment 
  -inquirer
