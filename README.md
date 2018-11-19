@@ -7,7 +7,7 @@ This is a search application that uses Node.js to process async calls to 3 diffe
 
 A forth option is avaiale which readFile is used to have the app run the app as well.
 
-![](https://github.com/gjblythe/CrystalCollector/raw/master/liriStart.gif)
+![](https://github.com/gjblythe/liri-node-app/raw/master/liriStart.gif)
 npm modules used are as follows use npm install for the following
 -moment 
  -inquirer
