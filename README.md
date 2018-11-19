@@ -36,5 +36,9 @@ The app works these two ways.
    2) Type node liri.js start 
         //uses inquirer for a better UX. Clicks and input promps guide the user through the search functions.
         
-        
+       ![Select](https://github.com/gjblythe/liri-node-app/raw/master/liriSelect.gif)
+       ![Concerts](https://github.com/gjblythe/liri-node-app/raw/master/liriConcert.gif)
+       ![Movies](https://github.com/gjblythe/liri-node-app/raw/master/liriMovie.gif)
+       ![Spotify](https://github.com/gjblythe/liri-node-app/raw/master/liriSong.gif)
+ 
 copyright 2018
